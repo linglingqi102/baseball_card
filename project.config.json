@@ -1,0 +1,27 @@
+{
+  "projectname": "baseball_card",
+  "description": "个人棒球卡",
+  "appid": "wx8bb8c9a724e5b774",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "nodeModules": true
+  },
+  "compileType": "miniprogram",
+  "condition": {}
+}
